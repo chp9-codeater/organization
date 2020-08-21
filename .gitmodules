@@ -1,3 +1,6 @@
 [submodule "Aliquam/departement-nam"]
 	path = Aliquam/departement-nam
 	url = https://github.com/chp9-codeater/departement-nam.git
+[submodule "Aliquam/department-porttitor"]
+	path = Aliquam/department-porttitor
+	url = https://github.com/chp9-codeater/department-porttitor.git
