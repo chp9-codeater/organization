@@ -21,5 +21,3 @@ Pellentesque sit amet dolor libero. Pellentesque lobortis hendrerit sem sit amet
 ## Teams
 
 Nullam elementum ligula ac lectus tincidunt vehicula. Vivamus rutrum nisi nisl, sit amet dignissim enim aliquet et. Integer ullamcorper lacus mi, et tincidunt sapien condimentum eu. Mauris placerat vitae dui id laoreet. Integer pellentesque vitae nibh sit amet vestibulum. Aliquam hendrerit, elit sed posuere vestibulum, purus orci luctus neque, ut feugiat massa nunc ut eros. Donec tellus dolor, pellentesque vel risus id, accumsan tristique felis. Nam euismod a enim ut vestibulum. Vivamus pellentesque purus pretium enim rutrum euismod. Suspendisse non fermentum dui, ut sagittis velit. Integer sodales, nunc ac imperdiet interdum, ex neque sagittis felis, et sodales nisl turpis quis sapien.
-
-Nothing more to say!
