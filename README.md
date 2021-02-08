@@ -29,5 +29,3 @@ This should use cascadia code
 
 But this should be marginated!
 ```
-
-Just another line.
